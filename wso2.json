@@ -1,0 +1,17 @@
+{
+  "name": "WSO2",
+  "url": "http://wso2.com/",
+  "location": {
+    "city": "Colombo",
+    "country": "LK",
+     "lat": 6.910046,
+    "lon": 79.853273
+  },
+  "contact": {
+    "phone": "+94 11 214 5345"
+  },
+  "state": {
+    "lastchange": "2015-12-25T11:18:17.986Z"
+  },
+  "api": "1.0.1"
+}
