@@ -4,14 +4,23 @@
   "location": {
     "city": "Colombo",
     "country": "LK",
-     "lat": 6.910046,
-    "lon": 79.853273
+    "lat": 6.910046,
+    "lon": 79.853273,
+    "address": {
+      "Name": "20",
+      "Street": "Palm Grove",
+      "Zipcode": "10100"
+    }
   },
   "contact": {
-    "phone": "+94 11 214 5345"
+    "phone": "+94 11 214 5345",
+    "ml": "dev@wso2.org",
+    "facebook": "https://www.facebook.com/pages/WSO2/240960032626355?fref=ts",
+    "twitter": "@WSO2",
+    "googleplus": "https://plus.google.com/102978163165933210309"
   },
   "state": {
-    "lastchange": "2015-12-25T11:18:17.986Z"
+    "lastchange": "2015-12-25T14:20:09.077Z"
   },
   "api": "1.0.1"
 }
